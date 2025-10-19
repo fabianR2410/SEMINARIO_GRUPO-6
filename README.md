@@ -1,3 +1,6 @@
 # SEMINARIO_GRUPO-6
+
 PROYECTO GRADO GRUPO 6
+
+
 **proyecto de prueba**
